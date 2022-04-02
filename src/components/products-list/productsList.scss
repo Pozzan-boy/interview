@@ -1,0 +1,22 @@
+.products-list {
+    &__wrapper {
+        padding-top: 50px;
+        margin: 0 auto;
+        width: 1100px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+    }
+    &__add-btn {
+        display: block;
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 200px;
+        text-align: center;
+        height: 50px;
+        border: 1px solid #000;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "./product.jpg",
+      "name": "Product 1",
+      "count": "2121",
+      "size": {
+        "width": "23",
+        "height": "232"
+      },
+      "weight": "1000g",
+      "comments": [
+        {
+          "id": 3,
+          "productId": 1,
+          "description": "some text here",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": "810784ce-9f0e-470b-b05e-62f715caa5ae",
+          "productId": "1",
+          "description": "sad",
+          "date": "2022-4-2 17:8:57"
+        }
+      ]
+    },
+    {
+      "id": "ac3cd270-9e28-461c-b41b-68dabb313bdd",
+      "name": "dsf",
+      "count": "1",
+      "size": {
+        "width": "1",
+        "height": "1"
+      },
+      "weight": "1",
+      "comments": [
+        {
+          "id": "8d3dcda8-6ab9-4b38-8e21-4adac0926da5",
+          "productId": "ac3cd270-9e28-461c-b41b-68dabb313bdd",
+          "description": "asa",
+          "date": "2022-4-2 17:9:7"
+        }
+      ],
+      "imageUrl": "./product.jpg"
+    },
+    {
+      "id": "179c70f3-5ef8-4b6a-870a-dca8cd75767d",
+      "name": "2",
+      "count": "e",
+      "size": {
+        "width": "ef",
+        "height": "sdf"
+      },
+      "weight": "sdf",
+      "comments": [],
+      "imageUrl": "./product.jpg"
+    },
+    {
+      "id": "a20cb63d-b54d-4483-a6e9-f0499f643ed9",
+      "name": "1",
+      "count": "121",
+      "size": {
+        "width": "12",
+        "height": "12"
+      },
+      "weight": "11g",
+      "comments": [],
+      "imageUrl": "./product.jpg"
+    }
+  ]
+}
